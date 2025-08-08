@@ -45,12 +45,6 @@
     - Swipe to delete
     - Use search to find specific reminders
 
-## 📸 Screenshots
-
-| Main Screen | Reminder Dialog | Timer Visualization |  
-|------------|----------------|---------------------|  
-| ![Main Screen](screenshots/main.png) | ![Dialog](screenshots/dialog.png) | ![Timer](screenshots/timer.png) |  
-
 ## ⚙️ Technical Details
 
 **Built With:**
