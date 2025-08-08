@@ -2,8 +2,6 @@
 
 **Never miss an important moment again!** Elapsed is a beautifully designed Flutter reminder app with unique time-based and calendar-based notification features.
 
----
-
 ## 🌟 Features
 
 ### ⏱ **Flexible Reminder Modes**
@@ -29,8 +27,6 @@
 - Edit or delete reminders with one tap
 - Dark mode support
 
----
-
 ## 🛠 How It Works
 
 1. **Create a Reminder**
@@ -49,15 +45,11 @@
     - Swipe to delete
     - Use search to find specific reminders
 
----
-
 ## 📸 Screenshots
 
 | Main Screen | Reminder Dialog | Timer Visualization |  
 |------------|----------------|---------------------|  
 | ![Main Screen](screenshots/main.png) | ![Dialog](screenshots/dialog.png) | ![Timer](screenshots/timer.png) |  
-
----
 
 ## ⚙️ Technical Details
 
@@ -70,8 +62,6 @@
 - Clean state management
 - Custom painters for visual timers 🎨
 - Responsive design for all screen sizes
-
----
 
 ## 🚀 Getting Started
 
@@ -87,17 +77,11 @@ flutter pub get
 flutter run
 ```
 
----
-
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
----
-
 ## 📜 License
 [MIT](https://choosealicense.com/licenses/mit/)
-
----
 
 ## ✨ Why Elapsed?
 
@@ -112,8 +96,4 @@ Perfect for:
 ✅ Habit tracking 🏋️  
 ✅ Special occasions 🎉
 
----
-
 **Download now and never lose track of time again!** ⏳➡️🎯
-
-*"The best time management app I've used this year!"* - Happy User 😊
